@@ -1,0 +1,120 @@
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Sistema Reservas Admin.exe.config
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Sistema Reservas Admin.exe
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Sistema Reservas Admin.pdb
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema Reservas Admin.csproj.AssemblyReference.cache
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema Reservas Admin.csproj.SuggestedBindingRedirects.cache
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema_Reservas_Admin.Properties.Resources.resources
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema Reservas Admin.csproj.GenerateResource.cache
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema Reservas Admin.csproj.CoreCompileInputs.cache
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema Reservas Admin.exe
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema Reservas Admin.pdb
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema_Reservas_Admin.Inicio.resources
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema_Reservas_Admin.SalonPrincipal.resources
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\MySql.Data.dll
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\System.Memory.dll
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\System.Buffers.dll
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\MySql.Data.xml
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema Reservas Admin.csproj.CopyComplete
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema_Reservas_Admin.Categorias.resources
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema_Reservas_Admin.Transmision.resources
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema_Reservas_Admin.NumeroAsientoSalon.resources
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema_Reservas_Admin.NumeroAsientoTransmision.resources
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema_Reservas_Admin.Bitacora.resources
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema_Reservas_Admin.TituloBitacora.resources
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema_Reservas_Admin.Alerta.resources
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema_Reservas_Admin.Historial.resources
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\EPPlus.dll
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\EPPlus.xml
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\System.Buffers.xml
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\System.Memory.xml
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Carga.gif
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema_Reservas_Admin.PantallaCarga.resources
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Sistema Reservas Admin.exe.manifest
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Sistema Reservas Admin.application
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema Reservas Admin.exe.manifest
+C:\Users\toted\Documents\GitHub\SistemaReservasAdminCasa2-42\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema Reservas Admin.application
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Carga.gif
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Sistema Reservas Admin.exe.config
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Sistema Reservas Admin.exe.manifest
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Sistema Reservas Admin.application
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Sistema Reservas Admin.exe
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Sistema Reservas Admin.pdb
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\EPPlus.dll
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\MySql.Data.dll
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\System.Buffers.dll
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\System.Memory.dll
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\EPPlus.xml
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\MySql.Data.xml
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\System.Buffers.xml
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\System.Memory.xml
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema Reservas Admin.csproj.AssemblyReference.cache
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema Reservas Admin.csproj.SuggestedBindingRedirects.cache
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema_Reservas_Admin.Alerta.resources
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema_Reservas_Admin.Bitacora.resources
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema_Reservas_Admin.Categorias.resources
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema_Reservas_Admin.Historial.resources
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema_Reservas_Admin.Inicio.resources
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema_Reservas_Admin.NumeroAsientoSalon.resources
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema_Reservas_Admin.NumeroAsientoTransmision.resources
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema_Reservas_Admin.PantallaCarga.resources
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema_Reservas_Admin.Properties.Resources.resources
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema_Reservas_Admin.SalonPrincipal.resources
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema_Reservas_Admin.TituloBitacora.resources
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema_Reservas_Admin.Transmision.resources
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema Reservas Admin.csproj.GenerateResource.cache
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema Reservas Admin.csproj.CoreCompileInputs.cache
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema Reservas Admin.exe.manifest
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema Reservas Admin.application
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema Reservas Admin.csproj.CopyComplete
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema Reservas Admin.exe
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\obj\Debug\Sistema Reservas Admin.pdb
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\System.Text.Json.dll
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\System.ValueTuple.dll
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\System.Text.Json.xml
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\System.ValueTuple.xml
+C:\Users\toted\Documents\GitHub\SistemaReservasAdmin\Sistema Reservas Admin\Sistema Reservas Admin\bin\Debug\appsettings.json
